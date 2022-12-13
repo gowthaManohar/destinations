@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.item-container {
+  margin-right: 10px;
+}
+
+.itemimg {
+  width: 200px;
+}
+.item-description {
+  font-size: 10px;
+  color: black;
+}

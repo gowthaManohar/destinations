@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  background-color: white;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-head {
+  font-size: 40px;
+  color: black;
+  font-weight: bold;
+}
+.items-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.input-container {
+  background-color: whitesmoke;
+  padding: 10px;
+  border-radius: 10px;
+}
+.inputimg {
+  width: 30px;
+  text-align: right;
+}
+.input {
+  background-color: whitesmoke;
+}
